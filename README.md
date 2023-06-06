@@ -10,9 +10,9 @@
 
 ## 💡 Objetivos
 
-> Aqui você deve descrever o que se espera do projeto, se tem algum público alvo à atingir. 
-- Se for melhor, voce pode usar uma lista
-- Com seus objetivos
+> Nosso objetivo é disseminar a palavra do software livre, tornando o mundo um lugar melhor e mais acessível a todos. 
+- Trazer mais visibilidade para o grupo Colmeia.
+- Atingir um publico mais leigo que provavelmente não tem acesso a conteúdos sobre tecnologia, em contraste com uma visão geral da sociedade. 
 
 ## 🐝 Colmeia
 ### Grupo de extensão em software e hardware livre
@@ -29,7 +29,7 @@
 </sub>
 
 ## 💭 Como este repositório está organizado
-> Deve ser descrito como o repositório está organizado, exemplo: Nesse repositório temos as aulas divididas por pastas, dentro de cada pasta (de aula) temos um arquivo pdf com os slides e um README sobre a aula.
+> Aqui contém os roteiros prontos em formato de artigo e os audios finalizados. 
 
 ## 🤝 Como contribuir?
 > Viu alguma coisa errada ou quer propor uma melhoria para esse projeto? Pode criar uma issue explicando o seu caso ou então você pode criar um fork desse repositório, arrumar o que precisar no seu fork e criar um pull request explicando o que foi mudado e porque.
